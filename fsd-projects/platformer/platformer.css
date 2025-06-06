@@ -5,8 +5,13 @@ body {
 canvas {
   background-color: lightblue;
   margin: 20px;
+  background-image: url("/fsd-projects/platformer/images/terraria-background-9f64rpnc9pkmmvfw.png");
 }
 
 img {
   display: none;
+}
+
+platform {
+  color: aquamarine;
 }
